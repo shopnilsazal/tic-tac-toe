@@ -4,5 +4,5 @@
 Built with Love and Python3.
 Play with numeric keyboard.
 
-![alt Screenshot](https://github.com/shopnilsazal/tic-tac-toe/raw/master/screenshot.jpg "Tic Tac Toe screenshot")
+![alt Screenshot](https://github.com/shopnilsazal/tic-tac-toe/raw/master/screenshot.png "Tic Tac Toe screenshot")
 
